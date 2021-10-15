@@ -1,6 +1,8 @@
-:root {
-  --fonts-primary: Arial;
-  --fonts-secondary: Arial;
-  --fonts-tertiary: Arial;
-  --font-display: Arial !important;
+::-webkit-input-placeholder,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: Rubik !important;
 }
